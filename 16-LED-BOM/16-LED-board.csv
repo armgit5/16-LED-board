@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U2,U1";"SO-16-N";2;"74HC595";;;
+2;"C1";"c_elec_6.3x5.3";1;"200uF";;;
+3;"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16";"LED_0805";16;"LED";;;
+4;"P1";"Pin_Header_Straight_1x05";1;"CONN_01X05";;;
+5;"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16";"R_0805_HandSoldering";16;"220Ohm";;;
